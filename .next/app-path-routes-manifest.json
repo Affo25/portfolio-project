@@ -1,0 +1,7 @@
+{
+  "/api/contact/route": "/api/contact",
+  "/robots.txt/route": "/robots.txt",
+  "/sitemap.xml/route": "/sitemap.xml",
+  "/_not-found/page": "/_not-found",
+  "/page": "/"
+}

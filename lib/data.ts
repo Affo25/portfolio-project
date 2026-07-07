@@ -16,7 +16,7 @@ export const personalInfo = {
 };
 
 export const stats = [
-  { label: "Years of experience", value: 2, suffix: "+" },
+  { label: "Years of experience", value: 3, suffix: "+" },
   { label: "Apps published", value: 5, suffix: "" },
   { label: "APIs shipped", value: 15, suffix: "+" },
   { label: "Technologies used", value: 12, suffix: "+" },
