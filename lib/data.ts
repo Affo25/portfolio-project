@@ -16,8 +16,8 @@ export const personalInfo = {
 };
 
 export const stats = [
-  { label: "Years of experience", value: 3, suffix: "+" },
-  { label: "Apps published", value: 5, suffix: "" },
+  { label: "Years of experience", value: 2, suffix: "+" },
+  { label: "Apps published", value: 8, suffix: "" },
   { label: "APIs shipped", value: 15, suffix: "+" },
   { label: "Technologies used", value: 12, suffix: "+" },
 ];
@@ -35,7 +35,7 @@ export const experience: Experience[] = [
   {
     role: "Full Stack Mobile Developer",
     company: "Code5 Technologies",
-    period: "January 2025 — Present",
+    period: "October 2024 — Present",
     location: "Lahore, Pakistan",
     current: true,
     responsibilities: [
@@ -93,7 +93,7 @@ export const skillGroups: SkillGroup[] = [
       { name: "Dart", level: 92 },
       { name: "React Native", level: 80 },
       { name: "Java / Kotlin", level: 72 },
-      { name: "SwiftUI", level: 65 },
+      { name: "SwiftUI", level: 40 },
     ],
   },
   {
@@ -101,9 +101,9 @@ export const skillGroups: SkillGroup[] = [
     icon: "server",
     skills: [
       { name: "Node.js", level: 88 },
-      { name: "FastAPI", level: 85 },
+      { name: "FastAPI", level: 40 },
       { name: "ASP.NET Core", level: 82 },
-      { name: "C++", level: 72 },
+      { name: "C++", level: 50 },
       { name: "REST APIs", level: 90 },
     ],
   },
