@@ -139,6 +139,36 @@ export type Project = {
 
 export const projects: Project[] = [
   {
+    name: "Dragon Pro App",
+    description:
+      "A ISp Management app for manage tickets,task,user,customers.",
+    technologies: ["Flutter", "Dart", "NodeJs"],
+    link: "https://play.google.com/store/apps/details?id=com.code5tech.dragon&pcampaignid=web_share",
+    linkLabel: "View on Google Play",
+    image: "/projects/dragonpro.webp",
+    features: [
+      "Track Customers",
+      "Manage Tickets,tasks,users",
+      "Search and filtering",
+      "Secure backend integration",
+    ],
+  },
+    {
+    name: "Raye Partner App",
+    description:
+      "Manage Hotel Booking,listing rooms maintenance etc.",
+    technologies: ["Flutter", "Dart", "NodeJs"],
+    link: "https://play.google.com/store/apps/details?id=com.raye.partner",
+    linkLabel: "View on Google Play",
+    image: "/projects/rayes.webp",
+    features: [
+      "Manage Bookings",
+      "for Hotel Management",
+      "Search and filtering",
+      "Secure backend integration",
+    ],
+  },
+  {
     name: "Jaaydaad Real Estate App",
     description:
       "A real estate platform where users can buy, sell, and rent properties seamlessly.",
