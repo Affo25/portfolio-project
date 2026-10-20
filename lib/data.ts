@@ -228,21 +228,21 @@ export const projects: Project[] = [
       "Financial reports & analytics",
     ],
   },
-  {
-    name: "WellNet Dragon App",
-    description:
-      "A Flutter mobile application for the WellNet DragonPro internet distribution platform, enabling users to manage ISP services, track connectivity, view account details, and access support features on the go with a smooth native experience.",
-    technologies: ["Flutter", "Dart", "Node.js"],
-    link: "https://dashboard.d.dragonpro.pk/login",
-    linkLabel: "View platform portal",
-    image: "/projects/image.png",
-    features: [
-      "ISP service management",
-      "Account & connectivity tracking",
-      "Support & ticket access",
-      "API-driven mobile experience",
-    ],
-  },
+  // {
+  //   name: "WellNet Dragon App",
+  //   description:
+  //     "A Flutter mobile application for the WellNet DragonPro internet distribution platform, enabling users to manage ISP services, track connectivity, view account details, and access support features on the go with a smooth native experience.",
+  //   technologies: ["Flutter", "Dart", "Node.js"],
+  //   link: "https://play.google.com/store/apps/details?id=com.code5tech.dragon&pcampaignid=web_share",
+  //   linkLabel: "View platform portal",
+  //   image: "/projects/image.png",
+  //   features: [
+  //     "ISP service management",
+  //     "Account & connectivity tracking",
+  //     "Support & ticket access",
+  //     "API-driven mobile experience",
+  //   ],
+  // },
   {
     name: "POS Pharmacies Web Portal",
     description:
@@ -273,21 +273,21 @@ export const projects: Project[] = [
       "Modern responsive UI",
     ],
   },
-  {
-    name: "Jaaydaad Property Management Portal",
-    description:
-      "A full-stack web portal for the Jaaydaad real estate platform, enabling dealers and admins to manage properties, societies, dealers, users, and cities through a centralized dashboard powered by a .NET Core Web API backend.",
-    technologies: [".NET Core Web API", "Angular", "C#"],
-    link: "https://portal.jaaydaad.net/login",
-    linkLabel: "Visit live portal",
-    image: "/projects/jaaydaad-portal.png",
-    features: [
-      "Property & society management",
-      "Dealer & user administration",
-      "City & property type controls",
-      "Search, filters & data tables",
-    ],
-  },
+  // {
+  //   name: "Jaaydaad Property Management Portal",
+  //   description:
+  //     "A full-stack web portal for the Jaaydaad real estate platform, enabling dealers and admins to manage properties, societies, dealers, users, and cities through a centralized dashboard powered by a .NET Core Web API backend.",
+  //   technologies: [".NET Core Web API", "Angular", "C#"],
+  //   link: "https://portal.jaaydaad.net/login",
+  //   linkLabel: "Visit live portal",
+  //   image: "/projects/jaaydaad-portal.png",
+  //   features: [
+  //     "Property & society management",
+  //     "Dealer & user administration",
+  //     "City & property type controls",
+  //     "Search, filters & data tables",
+  //   ],
+  // },
   {
     name: "DragonPro Internet Distribution Portal",
     description:
